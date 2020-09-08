@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>DateTimeExtension</PackageId>
+    <Version>1.0.1</Version>
+    <Authors>Nicola Zortea</Authors>
+    <Company>NZ Nicola Zortea</Company>
+    <RepositoryUrl>https://github.com/nicolazortea/DateTimeExtension</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Estensioni per DateTime</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+  </PropertyGroup>
+
+</Project>
